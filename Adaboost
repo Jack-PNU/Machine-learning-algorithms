@@ -1,17 +1,2 @@
-    Adaboost算法是由Boosting改进而来，
-    {
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "# Pyplot 教程"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "## Matplotlib 简介"
-   ]
-  }
+    Adaboost算法是由Boosting算法改进而来，Boosting算法是一种提高任意给定学习算法准确度的方法（详情自行百度），Valiant和Kearns提出了弱学习和强学习的概念，
+ 识别错误率小于1/2,也即准确率仅比随机猜测略高的学习算法称为弱学习算法;识别准确率很高并能在多项式时间内完成的学习算法称为强学习算法。  
